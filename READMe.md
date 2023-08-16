@@ -1,5 +1,5 @@
 # Review-Analyser
-This repository contains restricted files and folders. Here is a link to the complete folder on Google Drive: [Download File]([https://drive.google.com/file/d/your_file_id/view?usp=sharing](https://drive.google.com/drive/folders/1Yh0atMKeWA9uCa5fepZeJtvYBRISFg2i?usp=drive_link))
+This repository contains restricted files and folders. Here is a link to the complete folder on Google Drive: [https://drive.google.com/drive/folders/1Yh0atMKeWA9uCa5fepZeJtvYBRISFg2i?usp=drive_link]
 
 1. **Clone the Repository:** `git clone https://github.com/utkarshpant04/review-analyser.git`
 
